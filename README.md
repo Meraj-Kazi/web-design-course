@@ -1,2 +1,2 @@
-# 01-Introduction (web-design-course)
+# 02-Git-and-Github (web-design-course)
 This is my open source web design course.
